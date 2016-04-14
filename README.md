@@ -28,4 +28,4 @@ License
 MIT
 
 
-**@deivanmiranda**
+[@deivanmiranda]: <http://ivanmiranda.me>
