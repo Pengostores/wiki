@@ -27,5 +27,6 @@ License
 
 MIT
 
+* [@deivanmiranda] - duh
 
 [@deivanmiranda]: <http://ivanmiranda.me>
