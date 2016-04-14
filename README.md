@@ -1,4 +1,4 @@
-## wiki-container
+# wiki-container
 Este es un Docekerfile para crear una imagen sobre nginx y php-fpm optimizado para el uso con wikimedia.
 Al iniciar el contenedor se descarga el codigo de wikimedia, cuya versión de instalación se puede elegir desde el archivo scripts/start.sh
 
